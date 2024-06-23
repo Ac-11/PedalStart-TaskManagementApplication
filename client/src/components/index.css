@@ -1,0 +1,6 @@
+.custom-button {
+    border-radius: 5px; /* Adjust this value to make the buttons more or less rounded */
+    margin-right: 10px; /* Ensure proper spacing between the buttons */
+    margin-bottom: 10px; /* Add bottom margin to ensure vertical spacing */
+  }
+  

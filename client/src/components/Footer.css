@@ -1,0 +1,30 @@
+/* src/components/Footer.css */
+
+.footer {
+    background-color: black;
+    color: white;
+    padding: 5px 20px; /* Adjust padding to make the footer thin */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    font-size: 14px;
+  }
+  
+  .footer-text {
+    margin: 0;
+  }
+  
+  .footer-icons {
+    display: flex;
+  }
+  
+  .footer-icons a {
+    color: white;
+    margin-left: 10px;
+    font-size: 18px;
+    text-decoration: none;
+  }
+  
