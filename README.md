@@ -31,13 +31,7 @@ PedalStart - Task Management Tool is a comprehensive application designed to hel
 - **Other Tools**:
   - Axios (for HTTP requests)
   - Mongoose (for MongoDB object modeling)
-
-## Screenshots
-
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
-![Screenshot 3](path/to/screenshot3.png)
-
+    
 ## Installation Instructions
 
 1. **Clone the repository**:
