@@ -63,27 +63,28 @@ PedalStart - Task Management Tool is a comprehensive application designed to hel
    ```bash
    npm install
    ```
-6. **Change API routes in client/src/components/(in all js files)**:
-
-   ```bash
-   const response = await axios.get('http://<your-backend-ip>:5000/api/tasks');
-   ```
-
-8. **Start the server**:
+   
+6. **Start the server**:
 
    ```bash
    cd ..
    npm run server
    ```
+   
+7. **Change API routes in client/src/components/(in all js files)**:
 
-9. **Start the client**:
+   ```bash
+   const response = await axios.get('http://<your-backend-ip>:5000/api/tasks');
+   ```
+
+8. **Start the client**:
 
    ```bash
    cd client
    npm start
    ```
 
-10. **Open your browser** and go to `http://localhost:3000` to see the application in action.
+9. **Open your browser** and go to `http://localhost:3000` to see the application in action.
 
 ## Usage Instructions
 
