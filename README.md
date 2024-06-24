@@ -105,14 +105,3 @@ PedalStart - Task Management Tool is a comprehensive application designed to hel
    - Click on the "Delete" button next to a task.
    - Confirm the deletion in the prompt.
 
-## Site Visit Link
-
-You can visit the deployed application [here](http://abhisth.com).
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or new features.
-
-## License
-
-This project is licensed under the MIT License.
