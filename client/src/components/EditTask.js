@@ -22,7 +22,7 @@ const EditTask = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     const updatedTask = { title, description, dueDate };
-    await axios.put(`http://localhost:5000/api/tasks/${id}`, updatedTask);
+    await axios.put(`http://18.205.252.53:5000/api/tasks/${id}`, updatedTask);
     navigate('/');
   };
 
