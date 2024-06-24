@@ -2,9 +2,9 @@
 # PedalStart - Task Management Tool
 
 ## Important Links
-**Visit Site**: http://pedalstart.s3-website-us-east-1.amazonaws.com/
-**Backend endpoint**: http://18.205.252.53:5000/api/tasks (needs to be secure in production server)
-**Demo video Link**: https://drive.google.com/file/d/1q6sBr2eNhHectlb2G91SfgFeToEkcNBd/view?usp=sharing
+- **Visit Site**: http://pedalstart.s3-website-us-east-1.amazonaws.com/
+- **Backend endpoint**: http://18.205.252.53:5000/api/tasks (needs to be secure in production server)
+- **Demo video Link**: https://drive.google.com/file/d/1q6sBr2eNhHectlb2G91SfgFeToEkcNBd/view?usp=sharing
 
 ## Description
 
