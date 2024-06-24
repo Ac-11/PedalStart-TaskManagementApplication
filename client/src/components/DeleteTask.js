@@ -9,7 +9,7 @@ const DeleteTask = () => {
 
   const handleDelete = async () => {
     try {
-      await axios.delete(`http://localhost:5000/api/tasks/${id}`);
+      await axios.delete(`http://18.205.252.53:5000/api/tasks/${id}`);
       navigate('/');
     } catch (error) {
       console.error("There was an error deleting the task!", error);

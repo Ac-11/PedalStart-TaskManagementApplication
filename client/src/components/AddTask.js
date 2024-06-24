@@ -17,7 +17,7 @@ const AddTask = () => {
     }
     const newTask = { title, description, dueDate };
     try {
-      await axios.post('http://localhost:5000/api/tasks', newTask);
+      await axios.post('http://18.205.252.53:5000/api/tasks', newTask);
       alert('Task added successfully!');
       navigate('/');
     } catch (error) {

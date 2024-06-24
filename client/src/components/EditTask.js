@@ -11,7 +11,7 @@ const EditTask = () => {
 
   useEffect(() => {
     const fetchTask = async () => {
-      const response = await axios.get(`http://localhost:5000/api/tasks/${id}`);
+      const response = await axios.get(`http://18.205.252.53:5000/api/tasks/${id}`);
       setTitle(response.data.title);
       setDescription(response.data.description);
       setDueDate(new Date(response.data.dueDate).toISOString().split('T')[0]);
