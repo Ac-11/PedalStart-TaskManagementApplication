@@ -1,14 +1,14 @@
 
 # PedalStart - Task Management Tool
 
+## Important Links
+**Visit Site**: http://pedalstart.s3-website-us-east-1.amazonaws.com/
+**Backend endpoint**: http://18.205.252.53:5000/api/tasks (needs to be secure in production server)
+**Demo video Link**: https://drive.google.com/file/d/1q6sBr2eNhHectlb2G91SfgFeToEkcNBd/view?usp=sharing
+
 ## Description
 
 PedalStart - Task Management Tool is a comprehensive application designed to help users manage their tasks efficiently. This tool allows users to create, read, update, and delete tasks seamlessly. The application is built with a modern tech stack and features a responsive design to ensure usability across different devices.
-
-## Important Links
-Visit Site: http://pedalstart.s3-website-us-east-1.amazonaws.com/
-Backend endpoint: http://18.205.252.53:5000/api/tasks (needs to be secure in production server)
-Demo video Link: https://drive.google.com/file/d/1q6sBr2eNhHectlb2G91SfgFeToEkcNBd/view?usp=sharing
 
 ## Features
 
